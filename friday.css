@@ -1,0 +1,44 @@
+ /* section */
+ body{
+    margin: 0;
+    padding: 0;
+ }
+ .back{
+    background-color: blanchedalmond;
+ }
+ .top-banner{
+    display: flex;
+    justify-content: space-around;
+
+ }
+ .half{
+     width: 50%;
+     padding: 80px;
+
+     
+ }
+ .btn-primary{
+    padding: 5px 50px;
+    border:2px solid;
+    background-color: aquamarine;
+    font-size: 700;
+    border-radius: 5px;
+    
+ }
+ img{
+    border-radius: 50%;
+    width: 60%;
+    margin-left: 200px;
+ }
+ .bangla{
+   justify-items: center;
+   text-align: center;
+   padding: 50px;
+   gap: 15px;
+ }
+ .bgn{
+   justify-content: center;
+ }
+ 
+ 
+ 
